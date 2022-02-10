@@ -31,6 +31,6 @@ Using the polymorphism model, design a class diagram to handle the situation des
 
 **Draw the Class diagram describing this system.**
 
-![uml-diagram](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/UniversityManagementSystem.png)
+![uml-diagram](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/ZooManagementSystem.png)
 
 ---
