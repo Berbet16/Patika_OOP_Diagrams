@@ -1,5 +1,6 @@
 # Patika_OOP_Diagrams Homeworks
 
+
 ## Homework-1 University Management System
 
 - There are classrooms, study offices and departments belonging to the university.
@@ -12,6 +13,7 @@
 **(Note: It is not necessary to specify the attributes and behaviors of the classes.)**
 
 ![uml-diagram](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/UniversityManagementSystem.png)
+
 
 
 ---
