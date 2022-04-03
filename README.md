@@ -73,7 +73,7 @@ Design the system of the application that sells or rents movies online.
 
 ---
 
-## [Elevator Simulation](
+## [Elevator Simulation](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/ElavatorSimulationDiagram.png)
 
 **Design a class diagram based on the following problem statement.**
 
@@ -89,4 +89,4 @@ Design the system of the application that sells or rents movies online.
 
 - The simulator uses a "clock" to simulate real time lapse and timestamp and log events that occur in the simulation. A random number generator is used by the simulator to generate passengers and determine the departure and arrival floors for each passenger.
 
-![uml-diagram](
+![uml-diagram](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/ElavatorSimulationDiagram.png)
