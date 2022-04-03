@@ -1,7 +1,7 @@
 # Patika_OOP_Diagrams Homeworks
 
 
-## Homework-1 University Management System
+## [University Management System](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/ZooManagementSystem.png)
 
 - There are classrooms, study offices and departments belonging to the university.
 - There are offices belonging to the departments.
@@ -17,7 +17,7 @@
 
 
 ---
-## Homework-2 Zoo Management System
+## [Zoo Management System](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/ZooManagementSystem.png)
 You design a system to track information about animals in a zoo.
 Animals:
 - Horses (horses, zebras, donkeys, etc.),
@@ -39,7 +39,7 @@ Using the polymorphism model, design a class diagram to handle the situation des
 ---
 
 
-## Homework-3 Flight Management System
+## [Flight Management System](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/FlightManagementSystem.png)
 Design a system for the management of flights and pilots.
 
 - Airline companies operate the flights. Every airline has an identity.
@@ -57,7 +57,7 @@ Design a system for the management of flights and pilots.
 
 ---
 
-## Homework-4 Online Movie System
+## [Online Movie System](https://github.com/Berbet16/Patika_OOP_Diagrams/blob/main/OnlineMovieSystem.png)
 Design the system of the application that sells or rents movies online.
 
 - Movies can be listed and sorted in the app and users can subscribe to the app.
