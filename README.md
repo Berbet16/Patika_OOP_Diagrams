@@ -73,7 +73,7 @@ Design the system of the application that sells or rents movies online.
 
 ---
 
-## [Elevator Simulation]
+## [Elevator Simulation](
 
 **Design a class diagram based on the following problem statement.**
 
